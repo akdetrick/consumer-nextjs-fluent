@@ -9,9 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@fluent/bundle": "^0.17.1",
+    "@fluent/react": "^0.14.1",
+    "jsdom": "^20.0.1",
     "next": "12.3.1",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "unfetch": "^4.2.0"
   },
   "devDependencies": {
     "eslint": "8.24.0",
